@@ -2,7 +2,6 @@
 ### NAME: Shree Lekha S
 ### ROLL NO : 212223110052
 ### DEPARTMENT : CSE(IOT)
-### DATE : 23.11.2025
 
 ## AIM:
 To transfer data from a Python script to an MQTT cloud server (HiveMQ Cloud) using the MQTT protocol. 
